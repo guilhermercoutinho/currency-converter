@@ -101,6 +101,11 @@ select {
   outline: none;
 }
 
+/* Remove seta do input */
+input::-webkit-inner-spin-button {
+  -webkit-appearance: none;
+}
+
 button {
   height: 2rem;
   padding: 5px;
