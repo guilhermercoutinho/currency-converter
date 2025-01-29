@@ -58,7 +58,7 @@ Caso deseje rodar o projeto localmente em sua máquina, basta seguir os seguinte
 3. Commit suas mudanças (git commit -am 'Adicionando nova funcionalidade').
 4. Push para a branch (git push origin minha-feature).
 5. Abra um pull request explicando suas alterações.
-6. <br><br>
+<br><br>
 
 ## 📬 Contato
 Caso tenha alguma dúvida ou sugestão, fique à vontade para abrir uma issue ou enviar um e-mail para guilhermecoutinho.rc@gmail.com.
